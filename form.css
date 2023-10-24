@@ -1,0 +1,12 @@
+body{
+    background-image: url("/Project_1/write.jpg");
+    background-size: cover;
+    box-shadow: 30px,30px;
+}
+
+
+#set{
+    position: relative;
+    left: 50px;
+
+}

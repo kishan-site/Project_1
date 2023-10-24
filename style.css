@@ -1,0 +1,86 @@
+/* aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa */
+/* bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb */
+*{
+  padding: 0%;
+  margin: 0%;
+}
+#b1{
+  background-image:url("/Project_1/b11.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  
+}
+#button1{
+  color:rgb(2, 2, 2)
+  
+  background-color white;
+  border-color: black;
+  block-size: auto;
+}
+/* ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc */
+/* ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd */
+/* eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee */
+/* fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff */
+/* ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg */
+#g{
+  position: relative;
+  left: 60px;
+}
+/* hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh */
+h1{
+  color:rgb(0, 0, 0)
+}
+#h{
+  position: relative;
+  left: 100px;
+}
+#H{
+  position: relative;
+  left: 120px;
+}
+/* iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii */
+#i{
+  position: relative;
+  left: 20px;
+}
+/* jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj */
+/* kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk */
+
+
+/* lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll */
+/* mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm */
+/* nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn */
+/* ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo */
+/* ppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp */
+/* qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq */
+/* rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr */
+/* sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss */
+#social{
+  background-image: url("/Project_1/bannerlogo.png");
+  background-size: cover;
+  background-image: fixed;
+}
+#socialfooter{
+  
+  position:relative;
+  top: 600px;
+  
+}
+#f{
+  margin-left: 590px;
+}
+/* tttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt  */
+/* uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu */
+/* vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv */
+/* wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwx */
+/* xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx */
+#w{
+  position: relative;
+  left: 40px;
+}
+/* yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy */
+#y{
+  position: relative;
+  left: 80px;
+}
+/* zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz */
